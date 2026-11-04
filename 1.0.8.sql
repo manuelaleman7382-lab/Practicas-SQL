@@ -1,0 +1,1 @@
+select * from albums where lower(title) like lower('The%');
