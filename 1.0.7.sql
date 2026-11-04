@@ -1,0 +1,1 @@
+select firstname, lastname from customers where company is null;
