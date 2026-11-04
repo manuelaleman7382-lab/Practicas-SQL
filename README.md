@@ -20,3 +20,17 @@ Nivel 1: SELECT, WHERE, ORDER BY
 1.0.7 Clientes que no tienen empresa registrada.
 
 1.0.8 Álbumes cuyo título empieza con "The".
+
+Nivel 2: Agregaciones y GROUP BY
+
+1.1.1 ¿Cuántas canciones hay en total?
+
+1.1.2 ¿Cuál es el total de ventas (suma de todas las facturas)?
+
+1.1.3 Duración promedio de una canción, en minutos.
+
+1.1.4 Número de clientes por país, de mayor a menor.
+
+1.1.5 Total de ventas por año.
+
+1.1.6 Países con más de 5 clientes.
