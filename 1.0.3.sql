@@ -1,0 +1,1 @@
+select firstname, lastname, city from customers where Country = 'Brazil';
