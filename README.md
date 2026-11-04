@@ -4,19 +4,19 @@ ejercicios de entrenamiento
 # ejercicios
 
 Nivel 1: SELECT, WHERE, ORDER BY
-Muestra todos los géneros musicales.
 
-Muestra el nombre y compositor de las primeras 10 canciones.
+1.0.1 Muestra todos los géneros musicales.
 
-Lista nombre, apellido y ciudad de los clientes de Brasil.
+1.0.2 Muestra el nombre y compositor de las primeras 10 canciones.
 
-Lista las canciones cuyo precio sea mayor a 0.99.
+1.0.3 Lista nombre, apellido y ciudad de los clientes de Brasil.
 
-Canciones que duren entre 200,000 y 300,000 milisegundos, de la más larga a la más corta.
+1.0.4 Lista las canciones cuyo precio sea mayor a 0.99.
 
-Países distintos donde hay clientes, en orden alfabético.
+1.0.5 Canciones que duren entre 200,000 y 300,000 milisegundos, de la más larga a la más corta.
 
-Clientes que no tienen empresa registrada.
+1.0.6 Países distintos donde hay clientes, en orden alfabético.
 
-Álbumes cuyo título empieza con "The".
+1.0.7 Clientes que no tienen empresa registrada.
 
+1.0.8 Álbumes cuyo título empieza con "The".
