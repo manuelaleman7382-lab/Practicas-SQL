@@ -1,0 +1,1 @@
+select SUM(Total) as ventas_por_año, SUBSTRING(invoicedate, 1,4) as año_de_venta from invoices group by año_de_venta order by año_de_venta;
