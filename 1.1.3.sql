@@ -1,0 +1,1 @@
+select (AVG(milliseconds))/60000 from tracks;
