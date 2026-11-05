@@ -1,5 +1,5 @@
 # Practicas-SQL
-ejercicios de entrenamiento
+ejercicios de entrenamiento con la base de datos de chinook
 
 # ejercicios
 
