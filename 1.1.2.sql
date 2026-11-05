@@ -1,0 +1,1 @@
+select SUM(Total) as ventas_totales from invoices;
