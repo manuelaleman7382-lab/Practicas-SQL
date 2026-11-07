@@ -50,4 +50,5 @@ Nivel 3: JOINs
 1.2.6 Las 5 canciones más vendidas (por cantidad).
 
 1.2.7 Los 10 clientes que más han gastado.
-Cada empleado con el nombre de su jefe (los que no tienen jefe también deben aparecer).
+
+1.2.8 Cada empleado con el nombre de su jefe (los que no tienen jefe también deben aparecer).

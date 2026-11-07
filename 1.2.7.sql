@@ -1,0 +1,2 @@
+select customers.FirstName || ' ' || customers.LastName as cliente, sum(total) as ventas_total from customers
+join invoices on invoices.CustomerId = customers.CustomerId group by invoices.CustomerId order by ventas_total desc limit 10
