@@ -52,3 +52,15 @@ Nivel 3: JOINs
 1.2.7 Los 10 clientes que más han gastado.
 
 1.2.8 Cada empleado con el nombre de su jefe (los que no tienen jefe también deben aparecer).
+
+Nivel 4: Subconsultas y CTEs
+
+1.3.1 Canciones que duran más que el promedio.
+
+1.3.2 Clientes cuyo gasto total supera el gasto promedio por cliente.
+
+1.3.3 Álbumes con más de 15 canciones.
+
+1.3.4 El género que más ingresos ha generado.
+
+1.3.5 Clientes que nunca han comprado una canción de Rock.
