@@ -1,0 +1,2 @@
+select customers.FirstName || ' ' || customers.LastName as cliente, employees.FirstName || ' ' || employees.LastName as empleado from customers
+join employees on employees.EmployeeId = customers.SupportRepId;
