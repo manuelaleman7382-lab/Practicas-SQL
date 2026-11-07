@@ -46,7 +46,8 @@ Nivel 3: JOINs
 1.2.4 Cada cliente con el nombre completo de su agente de soporte.
 
 1.2.5 Artistas que no tienen ningún álbum.
-Las 5 canciones más vendidas (por cantidad).
 
-1.2.6 Los 10 clientes que más han gastado.
+1.2.6 Las 5 canciones más vendidas (por cantidad).
+
+1.2.7 Los 10 clientes que más han gastado.
 Cada empleado con el nombre de su jefe (los que no tienen jefe también deben aparecer).
