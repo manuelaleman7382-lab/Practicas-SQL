@@ -34,3 +34,19 @@ Nivel 2: Agregaciones y GROUP BY
 1.1.5 Total de ventas por año.
 
 1.1.6 Países con más de 5 clientes.
+
+Nivel 3: JOINs
+
+1.2.1 Título de cada álbum junto con el nombre de su artista.
+
+1.2.2 Las primeras 20 canciones con el nombre de su género.
+
+1.2.3 Número de canciones por género, de mayor a menor.
+
+1.2.4 Cada cliente con el nombre completo de su agente de soporte.
+
+1.2.5 Artistas que no tienen ningún álbum.
+Las 5 canciones más vendidas (por cantidad).
+
+1.2.6 Los 10 clientes que más han gastado.
+Cada empleado con el nombre de su jefe (los que no tienen jefe también deben aparecer).
